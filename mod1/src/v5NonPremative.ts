@@ -10,3 +10,5 @@ console.log(b);
 let c : (number | string | boolean)[] = [1, "Hello", true];
 console.log(c);
 
+// tupel
+let d = ["husbend", 30 , "wife", 28] as [string, number, string, number];
