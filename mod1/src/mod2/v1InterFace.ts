@@ -100,5 +100,23 @@ paye({
 
 console.log(paye);
 
+const bmw = ["BMW", "Audi", "Mercedes"];
+
+for(const c of bmw){
+   console.log(c);
+}
+
+
+const ar = []
+
+const phone = ["iPhone", "Samsung", "OnePlus"];
+
+for(const ab of phone){
+   ar.push(ab);
+}
+ar.push("vivo");
+
+
+console.log(ar);
 
 
